@@ -8,7 +8,7 @@ Il est possible de l’intégrer à son site via un téléchargement des fichier
 Plus d'infformation sur la page [Github](https://github.com/AmauriC/tarteaucitron.js "Github") du projet.
 
 ## Sketch
-J'ai recréé l'interface de la bannière et de la popup que génère tarteaucitron.js. En utilisant les composant, vous pourrez facilement personnaliser l'interface selon votre charte graphique.
+J'ai recréé l'interface de la bannière et de la popup que génère tarteaucitron.js. En utilisant les composants de Sketch, vous pourrez facilement personnaliser l'interface selon votre charte graphique.
 
 ![Mockup](https://user-images.githubusercontent.com/7768843/113160978-41882080-923e-11eb-8fc6-f28b8e39f1d2.png)
 
