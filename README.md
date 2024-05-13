@@ -5,7 +5,7 @@ Tarteaucitron est une librairie javascript développée par la communauté perme
 
 Il est possible de l’intégrer à son site via un téléchargement des fichiers du repo github, via un CDN, via une installation de package npm, ou encore via un plugin pour les sites wordpress.
 
-Plus d'infformation sur la page [Github](https://github.com/AmauriC/tarteaucitron.js "Github") du projet.
+Plus d'informations sur la page [Github](https://github.com/AmauriC/tarteaucitron.js "Github") du projet.
 
 ## Sketch
 J'ai recréé l'interface de la bannière et de la popup que génère tarteaucitron.js. En utilisant les composants de Sketch, vous pourrez facilement personnaliser l'interface selon votre charte graphique.
